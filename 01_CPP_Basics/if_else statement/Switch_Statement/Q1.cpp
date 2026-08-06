@@ -12,7 +12,7 @@ int main(){
     switch(day){
         case 1:
             cout<<"Monday";
-            break;
+            break;     
         case 2:
             cout<<"tuesday";
             break;
